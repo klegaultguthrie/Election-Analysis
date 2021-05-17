@@ -29,7 +29,7 @@ Software: Python 3.7.6, Visual Studio Code 1.56.2
         Diana DeGette received 73.8% of the vote and 272,892 number of votes.
         Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
         
-  5.  The winner of the election is Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+  The winner of the election is Diana DeGette received 73.8% of the vote and 272,892 number of votes.
 
 # Election Audit Summary
 The code that was written to audit and evaluate the results of this election can readily be used in other elections, or circusmstances that require the Colorado Board of Directors to validate results an effecient and effective manner. The script can be modified to include additional candidates, and can also be used to further analyse the results by county.
