@@ -19,10 +19,7 @@ Software: Python 3.7.6, Visual Studio Code 1.56.2
 # Election Results
   There were 369,711 total votes cast in the election.
   
-  The electoral candidates were:
-        -Charles Casper Stockham
-        Diana DeGette
-        Raymon Anthony Doane
+  The electoral candidates were Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane.
         
   The candidate results were:
         Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
