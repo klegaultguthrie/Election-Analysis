@@ -20,7 +20,7 @@ Software: Python 3.7.6, Visual Studio Code 1.56.2
   There were 369,711 total votes cast in the election.
   
   The electoral candidates were:
-        Charles Casper Stockham
+        -Charles Casper Stockham
         Diana DeGette
         Raymon Anthony Doane
         
