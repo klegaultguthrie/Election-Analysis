@@ -1,5 +1,6 @@
 #Add our Dependencies
 import csv
+from typing import Text
 dir(csv)
 import os
 
@@ -82,7 +83,6 @@ winning_candidate_summary = (
     f"-------------------------\n")
 print(winning_candidate_summary)
 
-#   terminal.
-
-
-
+with open(file_to_save, "w") as election_data:
+    election_data.write(f"THE RESULTS\n")
+    election_data.write(winning_candidate_summary)
